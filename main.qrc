@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/wifi-enabled.png</file>
+        <file>res/wifi-disabled.png</file>
+        <file>res/led-gr.png</file>
+        <file>res/led-gn.png</file>
+        <file>res/led-rt.png</file>
+        <file>res/led-ge.png</file>
+        <file>res/focus_button_pressed.png</file>
+        <file>res/focus_button_released.png</file>
+        <file>res/shutter_button_pressed.png</file>
+        <file>res/shutter_button_released.png</file>
+        <file>res/icon.png</file>
+        <file>res/lifeview-disabled.png</file>
+        <file>res/play_button_pressed.png</file>
+        <file>res/play_button_released.png</file>
+    </qresource>
+</RCC>
