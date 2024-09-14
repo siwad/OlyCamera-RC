@@ -12,7 +12,9 @@ OlyCameraRC is distributed in the hope that it will be useful, but WITHOUT ANY W
 ## Screenshots of the product
 ![Screenshot_20240914_051313](https://github.com/user-attachments/assets/c297c1d3-83b2-4fe5-bcfd-40ffd18e0049)
 
-
+The headline visualizes the WIFI status.
+The status line below the image resp. LifeView visualizes shutter speed (T), focal value (F), exposure value (EV), ISO setting (ISO) and exposure mode (M) with its values "Norm" (single photo), "Cont" (continuous), "Self" and "Comp" (composite mode).
+The left, smaller, button activates/deactivates LifeView. The button in the middle requests focussing, the one at the right serves as shutter button.
 
 ## The software pattern "State"
 State transitions according to the design pattern are exemplarily shown for the focus request of the camera.
