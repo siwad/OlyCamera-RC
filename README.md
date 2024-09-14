@@ -10,11 +10,14 @@ OlyCameraRC is distributed in the hope that it will be useful, but WITHOUT ANY W
 
 
 ## Screenshots of the product
-
+![Screenshot_20240914_051313](https://github.com/user-attachments/assets/c297c1d3-83b2-4fe5-bcfd-40ffd18e0049)
 
 
 
 ## The software pattern "State"
+State transitions according to the design pattern are exemplarily shown for the focus request of the camera.
+Complete code for all state transitions is available at main.h and main.cpp.
+
 #### main.h
 The main class and interface of the state machine (shortened):
 <pre>
